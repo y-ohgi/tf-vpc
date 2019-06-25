@@ -1,7 +1,7 @@
 terraform {}
 
 module vpc {
-  source = "git::https://github.com/y-ohgi/tf-vpc.git?ref=v1.1.0"
+  source = "git::https://github.com/y-ohgi/tf-vpc.git?ref=v1.0.0"
 
   name = "myapp"
 

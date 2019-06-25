@@ -3,7 +3,7 @@ tf-vpc
 
 
 # About
-<img src="http://github.com/y-ohgi/tf-vpc/master/docs/architecture.png" />
+<img src="https://github.com/y-ohgi/tf-vpc/blob/master/docs/architecture.png?raw=true" />
 
 TerraformによるVPC構築用Module
 
@@ -12,7 +12,7 @@ TerraformによるVPC構築用Module
 terraform {}
 
 module vpc {
-  source = "git::https://github.com/y-ohgi/tf-vpc.git?ref=v1.1.0"
+  source = "git::https://github.com/y-ohgi/tf-vpc.git?ref=v1.0.0"
   
   name = "myapp"
     
