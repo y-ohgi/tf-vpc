@@ -3,7 +3,7 @@ tf-vpc
 
 
 # About
-<img src="http://github.com/y-ohgi/tf-vpc/master/docs/architecture.png" />
+<img src="https://github.com/y-ohgi/tf-vpc/blob/master/docs/architecture.png?raw=true" />
 
 TerraformによるVPC構築用Module
 
